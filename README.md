@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chetan666
-- 👀 I’m interested in Physics and Cryptography primarily
-- 🌱 I’m currently learning Cryptography and completing my PhD in Quantum Optics
-- 💞️ I’m looking to collaborate on Cryptography
+- 👀 I’m interested in Physics and Machine Learning
+- 🌱 I’m currently learning ML and finishing PhD in Quantum Optics
+- 💞️ I’m looking to collaborate on ML/AI
 - 📫 Contact me on chetanwa@gmail.com
 
 <!---
