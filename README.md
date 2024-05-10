@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chetan666
+- 👋 Hi, I am Dr. Chetan Waghela.
 - 👀 I’m interested in Physics and Machine Learning
 - 🌱 I’m currently learning ML and finishing PhD in Quantum Optics
 - 💞️ I’m looking to collaborate on ML/AI
